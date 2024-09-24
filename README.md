@@ -1,4 +1,4 @@
-# Inditex Product Pricing Service
+# Inditex Product Price Webflux Consumer
 
 Este proyecto es un servicio basado en **Spring Boot** utilizando arquitectura hexagonal y **Spring WebFlux** para gestionar los precios de productos del ecommerce de **Inditex**. Proporciona una API REST que permite consultar el precio aplicable en función de la fecha de consulta, el identificador del producto y la marca, sobre una base de datos en memoria.
 
