@@ -31,31 +31,6 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 - **JUnit 5**: Framework para pruebas unitarias.
 - **H2**: Base de datos en memoria para pruebas.
 
-## Instalación y Configuración
-
-1. Clona este repositorio:
-
-    ```bash
-    git clone https://github.com/tu-usuario/inditex-pricing-service.git
-    cd inditex-pricing-service
-    ```
-
-2. Compila el proyecto y descarga las dependencias:
-
-    ```bash
-    mvn clean install
-    ```
-
-## Ejecución del Proyecto
-
-1. Ejecuta la aplicación desde la línea de comandos:
-
-    ```bash
-    mvn spring-boot:run
-    ```
-
-2. La aplicación estará disponible en `http://localhost:8080`.
-
 ## API Endpoints
 
 ### Consulta de precios
